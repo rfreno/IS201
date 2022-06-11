@@ -1,0 +1,26 @@
+/*Bek Reno-Winters, Edited June 9, 2022*/
+
+.small {
+    font-style: oblique;
+}
+
+.sub {
+    font-weight: lighter;
+    font-style:oblique;
+    text-align: center;
+}
+
+.contact {
+    color: brown;
+    font-weight: bold;
+}
+
+.vid {
+    font-size: 10pt;
+    font-style: oblique;
+    text-align: center;
+}
+
+a:hover {
+    color: hotpink;
+}

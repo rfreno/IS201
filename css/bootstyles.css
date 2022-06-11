@@ -1,0 +1,49 @@
+/* Bek Reno-Winters, Edited June 9, 2022 */
+
+nav {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin:10pt;
+    text-align: center;
+    background-color: bisque;
+    padding:3pt;
+}
+
+footer {
+    font-family: monospace;
+    margin: 20pt;
+    text-align: center;
+    font-style: italic bold;
+    background-color: bisque;
+    padding:3pt;
+    color:palevioletred;
+}
+
+a {
+    text-decoration: none;
+    color:palevioletred;
+    font-size: 12pt;
+    font-weight: bold;
+}
+
+a:hover {
+    color:red;
+}
+
+.caption {
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 10pt;
+    text-align: center;
+}
+
+.title {
+    font-family: sans-serif;
+    font-style: bold;
+    font-size: 15pt;
+}
+
+.site {
+    color:palevioletred;
+    font-size:25pt;
+    font-weight: bolder;
+}
